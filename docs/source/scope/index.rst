@@ -29,7 +29,5 @@ Those who are maintaining or building patient registries.
 
 .. toctree::
   :local:
-  :depth:1
-  :titlesonly:
 
 
