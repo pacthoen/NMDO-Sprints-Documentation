@@ -13,7 +13,7 @@ Contents
    :maxdepth: 1
    :caption: Contents
 
-   scope
+   scope/index
    mappings
    clinical-assessment
    phenotype
