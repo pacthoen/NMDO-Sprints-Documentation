@@ -7,6 +7,7 @@ There are many parallel efforts in the neuromuscular disease field regarding the
 With a neuromuscular disease (NMD) Domain Ontology (NDO) we will create an ontology with terms that are 
 
 **Ultimate Aim**
+^^^^^^^^^^^^^^
 
 Increase interoperability of neuromuscular patient registries through use of common ontology and data model
 
