@@ -6,14 +6,12 @@ Welcome to NMD Ontology's documentation!
 
    This project is under active development.
 
-Contents
---------
 
 .. toctree::
    :maxdepth: 1
    :caption: Contents
 
-   scope
+   scope/index
    mappings
    clinical-assessment
    phenotype
