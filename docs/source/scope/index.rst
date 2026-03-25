@@ -27,7 +27,7 @@ Those who are maintaining or building patient registries.
 - Find and use standardized protocols for clinical assessments. 
 - Find and apply a harmonized set of PROMs. 
 
-.. contents::
+.. toctree::
   :local:
   :depth:1
   :titlesonly:
