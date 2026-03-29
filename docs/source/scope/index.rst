@@ -4,7 +4,7 @@ Scope of the activity
 =======================
 
 There are many parallel efforts in the neuromuscular disease field regarding the FAIRification of registries, and in particular on the mapping of data elements to ontologies and semantic models. Next to possible inefficiency due to duplicate efforts, this may introduce interoperability problems later on, when we are finding out that different decisions on preferred ontologies, ontology terms, definitions, standard operating procedures and data models have been made. This is an attempt to align ongoing efforts in different projects.
-With a neuromuscular disease (NMD) Domain Ontology (NDO) we will create an ontology with terms that are 
+With a neuromuscular disease (NMD) Domain Ontology (NDO) we will create an ontology with terms that are relevant to the field of NMDs and suggest the preferred ontology terms for diseases, phenotypes, clinical outcomes and assessments, patient reported outcomes and the relationships between them.
 
 **Ultimate Aim**
 ^^^^^^^^^^^^^^
@@ -30,4 +30,14 @@ Those who are maintaining or building patient registries.
 - Use ontology lookup service to select the preferred terms in the field and connect these to the data elements collected in the registry. 
 - Find and use standardized protocols for clinical assessments. 
 - Find and apply a harmonized set of PROMs. 
+
+**Contributing projects**
+Projects and organisations contributing to NDO are:
+- EURO-NMD registry<https://ern-euro-nmd.eu/registry/>
+- PaLaDin<https://www.project-paladin.eu/>
+- SIMPATHIC<https://simpathic.eu>
+- PROMOT<https://www.promotinitiative.com/project-partners> 
+- C-PATH<https://c-path.org>
+- ERDERA<https://erdera.org>
+- END-DM1<https://ufhealth.org/clinical-trials/end-dm1>
 
